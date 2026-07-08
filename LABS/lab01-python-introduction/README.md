@@ -37,7 +37,7 @@ print("Welcome to Python programming.")
 
 ## Program Output
 
-![Part 2 Output](screenshots/part2.png)
+![Part 2 Output](screenshots/PART2.png)
 
 ## Challenges Encountered
 
@@ -60,7 +60,7 @@ print("Hello, " + name + "! Glad to have you learning Python.")
 
 ## Example Output
 
-![Part 3 Output](screenshots/part3.png)
+![Part 3 Output](screenshots/PART3.png)
 
 ---
 
