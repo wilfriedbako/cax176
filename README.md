@@ -20,6 +20,7 @@ cax176
 | Lab | Description |
 |------|-------------|
 | Lab 1 | Introduction to Python and Computer Programming |
+| Lab 2 |Data Types, Variables, Operators, and Basic I/O |
 
 ## Projects
 
