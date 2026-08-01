@@ -18,11 +18,14 @@ cax176
 
 ## Labs
 
-| Lab              | Description                                                                                                |
-| ---------------- | ---------------------------------------------------------------------------------------------------------- |
-| Lab 1            | Introduction to Python and Computer Programming                                                            |
-| Lab 2            | Data Types, Variables, Operators, and Basic I/O                                                            |
-| Python 2 – Lab 1 | Modules, Packages, and PIP (Built-in Modules, Custom Modules, Package Organization, and External Packages) |
+## Labs
+
+| Lab | Description |
+|------|-------------|
+| Lab 1 | Introduction to Python and Computer Programming |
+| Lab 2 | Data Types, Variables, Operators, and Basic I/O |
+| Lab 3 | Conditionals, Loops, Lists, Bubble Sort, and Logic Operators |
+| Python2 Lab 1 | Modules, Packages, and PIP |
 
 ## Projects
 
